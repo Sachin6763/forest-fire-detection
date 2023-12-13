@@ -1,9 +1,5 @@
 # Fire Detection Project
 
-![Fire Detection](https://your-project-image-url.jpg)
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 ## Overview
 
 This project focuses on detecting the presence of fire in images using a Convolutional Neural Network (CNN). The project includes both the model development code and a user-friendly web interface for interacting with the model.
@@ -39,7 +35,3 @@ This project focuses on detecting the presence of fire in images using a Convolu
 ## Contributions
 
 Contributions are welcome! Please follow GitHub practices for forking, creating branches, and submitting pull requests.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code for your own purposes.
