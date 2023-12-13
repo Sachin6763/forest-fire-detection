@@ -12,7 +12,7 @@ This project focuses on detecting the presence of fire in images using a Convolu
 
 ## Project Structure
 
-- `model_training.ipynb`: Jupyter Notebook for creating, compiling, and training the CNN model.
+- `test.py`: Vs Code for creating, compiling, and training the CNN model.
 - `app.py`: Flask application script for handling image uploads, making predictions, and rendering the web interface.
 - `templates/index.html`: HTML template for the web interface.
 - `static/`: Directory containing static files (CSS, images).
@@ -21,7 +21,7 @@ This project focuses on detecting the presence of fire in images using a Convolu
 ## Getting Started
 
 1. **Install Dependencies:** `pip install -r requirements.txt`
-2. **Train the Model (Optional):** Run code in `model_training.ipynb`.
+2. **Train the Model (Optional):** Run code in `test.py`.
 3. **Run the Web Interface:** `python app.py`
 4. **Access the Interface:** Open a web browser and go to `http://localhost:5000`
 
