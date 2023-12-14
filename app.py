@@ -6,7 +6,7 @@ import numpy as np
 app = Flask(__name__, static_url_path='/static', static_folder='static')
 
 # Load the saved model
-model = load_model("fire_detection_model.h5")
+model = load_model("fire_detection_model.keras")
 
 def predict_image(filename):
     img = image.load_img(filename, target_size=(150, 150))
